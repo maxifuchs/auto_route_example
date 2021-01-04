@@ -8,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  auto_route: 1.0.0-beta.4
+  auto_route: ^1.0.0-beta.6
   provider:
 
 dev_dependencies:
@@ -16,7 +16,7 @@ dev_dependencies:
 
   flutter_test:
     sdk: flutter
-  auto_route_generator: 1.0.0-beta.4
+  auto_route_generator: ^1.0.0-beta.6
   effective_dart: ^1.2.0
 
 flutter:
